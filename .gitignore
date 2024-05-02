@@ -2,3 +2,7 @@ __pycache__/*
 corpora/*
 tokenizers/*
 .DS_Store
+test_spam.csv
+train_spam.csv
+cloud.png
+lstm_classifier_graph.png

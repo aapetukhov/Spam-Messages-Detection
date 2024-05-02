@@ -44,4 +44,6 @@
 | Бустинг на TF-IDF                 | 0.9762  | Optuna (120 trials)         |
 | LSTM на GloVe эмбеддингах         | 0.9816  | RMSProp                     |
 
-Наиболее качественные результата показала наиболее сложная архитектура - LSTM на основе GloVe эмбеддингов (эмбеддинги дообучались), обученная для классификации. Схема модели:![nn_graph](https://github.com/aapetukhov/Spam-Messages-Detection/assets/112823527/90fc1fe3-925a-4fdb-a76e-4dedd03f3ab8)
+Наиболее качественные результата показала наиболее сложная архитектура - LSTM на основе GloVe эмбеддингов (эмбеддинги дообучались), обученная для классификации. 
+Схема модели:![nn_graph]![lstm_classifier_graph_horizontal](https://github.com/aapetukhov/Spam-Messages-Detection/assets/112823527/33514d73-b983-490e-8d7e-c487912b23e9)
+

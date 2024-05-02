@@ -1,3 +1,4 @@
-__pycache__
-corpora
-tokenizers
+__pycache__/*
+corpora/*
+tokenizers/*
+.DS_Store

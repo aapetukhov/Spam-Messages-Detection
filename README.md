@@ -45,5 +45,6 @@
 | LSTM на GloVe эмбеддингах         | 0.9816  | RMSProp                     |
 
 Наиболее качественные результата показала наиболее сложная архитектура - LSTM на основе GloVe эмбеддингов (эмбеддинги дообучались), обученная для классификации. 
-Схема модели:![nn_graph]![lstm_classifier_graph_horizontal](https://github.com/aapetukhov/Spam-Messages-Detection/assets/112823527/33514d73-b983-490e-8d7e-c487912b23e9)
+Схема модели:![lstm_classifier_graph_compact](https://github.com/aapetukhov/Spam-Messages-Detection/assets/112823527/15b03f32-b507-4d0f-8fd0-7cb786e1156c)
+
 

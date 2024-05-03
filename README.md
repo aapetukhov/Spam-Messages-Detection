@@ -55,7 +55,9 @@ pip install -r requirements.txt
 
 
 Наиболее качественные результата показала наиболее сложная архитектура - LSTM на основе GloVe эмбеддингов (эмбеддинги дообучались), обученная для классификации. 
-Схема модели:![lstm_graph](https://github.com/aapetukhov/Spam-Messages-Detection/assets/112823527/2dc26140-6785-43c9-83ac-45d423c3722f)
+Схема модели:
+
+![lstm_graph](https://github.com/aapetukhov/Spam-Messages-Detection/assets/112823527/2dc26140-6785-43c9-83ac-45d423c3722f)
 
 
 

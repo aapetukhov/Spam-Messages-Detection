@@ -1,8 +1,10 @@
 __pycache__/*
 corpora/*
 tokenizers/*
+spam_env/*
 .DS_Store
 test_spam.csv
 train_spam.csv
 cloud.png
 lstm_classifier_graph.png
+glove.6B.100d.txt
